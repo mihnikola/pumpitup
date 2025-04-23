@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "623951261590",
+    "project_id": "fcmnotify-a7d62",
+    "storage_bucket": "fcmnotify-a7d62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623951261590:android:290e228c182db4d0b4b7b7",
+        "android_client_info": {
+          "package_name": "com.mihaola993.barberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623951261590-ajt8ggu5qjrho0pilk4kabvg174rtsrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mihaola993.barberapp",
+            "certificate_hash": "80374d505c401a82ed090be4c44b8b00803443a9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbARX4K3KNHq18J_km_Az2tQRYMk691dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
